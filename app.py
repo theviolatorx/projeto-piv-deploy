@@ -35,7 +35,7 @@ def cs_sidebar():
     st.sidebar.header('Projeto Integrador IV')
 
     st.sidebar.markdown('''
-<small>Dashboard desenvolvida para analise de comparação do 5G entre Brasil e Korea doo Sul</small>
+<small>Dashboard desenvolvida para analise de comparação do 5G entre Brasil e Korea do Sul</small>
 ''', unsafe_allow_html=True)
 
     return None
